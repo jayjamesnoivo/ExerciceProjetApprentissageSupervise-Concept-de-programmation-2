@@ -2,7 +2,7 @@
 
 ## 🎯 Objectif du projet
 
-Ce projet a pour but de prédire la **puissance produite par une éolienne** à partir de la **vitesse du vent**, en utilisant différentes méthodes de régression en machine learning.
+Ce projet est pour le cours de Concept de programmation 2 au College de Maisonneuve. Elle a pour but de prédire la **puissance produite par une éolienne** à partir de la **vitesse du vent**, en utilisant différentes méthodes de régression en machine learning.
 
 ---
 
